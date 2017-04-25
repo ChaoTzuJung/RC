@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/alan2305/Desktop/RC/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/alan2305/Desktop/RC/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/alan2305/Desktop/RC/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/alan2305/Desktop/RC/node_modules/react-native/React/Modules/RCTDevMenu.h
