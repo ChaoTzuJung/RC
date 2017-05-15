@@ -2,7 +2,7 @@
 # UI其他風格呈現-設計理念
 
 >## 登入首頁ver1<br />
->  ![Alt text](/Art/login ver1.png)<br />
+>  ![Alt text](https://raw.githubusercontent.com/ChaoTzuJung/RC/master/Art/login%20ver1.png)<br />
 >
 >  * 一開始進入ＡＰＰ希望能不強迫使用者登入或創建帳號<br />
 >  * 可以想在書架上翻書一樣，各個領域的科目有它對應的顏色<br />
