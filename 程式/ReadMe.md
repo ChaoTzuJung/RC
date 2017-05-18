@@ -2,7 +2,7 @@
 # UI其他風格呈現-設計理念
 
 >## 登入首頁ver1<br />
->  ![Alt text](./login ver1.png)<br />
+>  ![Alt text](https://raw.githubusercontent.com/ChaoTzuJung/RC/master/Art/login%20ver1.png)<br />
 >
 >  * 一開始進入ＡＰＰ希望能不強迫使用者登入或創建帳號<br />
 >  * 可以想在書架上翻書一樣，各個領域的科目有它對應的顏色<br />
@@ -10,7 +10,7 @@
 
 
 >## 創辦帳號ver1<br />
->  ![Alt text](./register ver1.png)<br />
+>  ![Alt text](https://raw.githubusercontent.com/ChaoTzuJung/RC/master/Art/register%20ver1.png)<br />
 >
 >  * 按下下方的登入與註冊直接用半透明與模糊的黑色block覆蓋整個賞半部書櫃，讓使用者把焦點放在下方的操作<br />
 >  * 上方方一個大大的icon直接讓使用者了解你所在的畫面，以及使用的軟體<br />
@@ -18,13 +18,13 @@
 
 
 >##  登入首頁ver2<br />
->  ![Alt text](./login ver2.png)<br />
+>  ![Alt text](https://raw.githubusercontent.com/ChaoTzuJung/RC/master/Art/login%20ver2.png)<br />
 >
 >  * 在畫面上方放雲朵與一些學習工具，暗示透過雲端學習，學習無國界，一種地球村的概念<br />
 >  * 登入案件偏暗，表示在等待你按下它，<br />
 >  * 案率與深橘呈現強對比，同時下方的波浪花紋是最近流行的呈現手法<br />
 >##  創辦帳號ver2<br />
->  ![Alt text](./gregister ver2.png)<br />
+>  ![Alt text](https://raw.githubusercontent.com/ChaoTzuJung/RC/master/Art/register%20ver2.png)<br />
 >
 >  * 上方用文字大小及深淺粗細來標示種點擊順序的細分<br />
 >  * 開始鍵用活潑的深橘，有種正面陽光學習的感覺，同時也解釋自主學習是快樂的br />
