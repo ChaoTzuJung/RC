@@ -1,14 +1,16 @@
 
-# UI其他風格呈現-設計理念
+# UI設計流程
 
->## Functional Map<br />
->  ![Alt text](https://raw.githubusercontent.com/ChaoTzuJung/RC/master/Art/login%20ver1.png)<br />
+>## Icon<br />
+>  ![Alt text](https://raw.githubusercontent.com/ChaoTzuJung/RC/master/美術/UI/icon.png)<br />
 >
 
-
+>## Functional Map<br />
+>  ![Alt text](https://github.com/ChaoTzuJung/RC/blob/master/美術/UI/functional%20map.png)<br />
+>
 
 >## UI Flow<br />
->  ![Alt text](https://raw.githubusercontent.com/ChaoTzuJung/RC/master/Art/register%20ver1.png)<br />
+>  ![Alt text](https://github.com/ChaoTzuJung/RC/blob/master/美術/UI/UI%20Flow.png)<br />
 >
 
 
@@ -19,12 +21,12 @@
 
 
 >##  MockUp<br />
->  ![Alt text](https://raw.githubusercontent.com/ChaoTzuJung/RC/master/Art/register%20ver2.png)<br />
+>  ![Alt text](https://github.com/ChaoTzuJung/RC/blob/master/美術/UI/Wireframe.png)<br />
 >
 
 
 >##  Prototype<br />
->  ![Alt text](https://raw.githubusercontent.com/ChaoTzuJung/RC/master/Art/register%20ver2.png)<br />
+>  ![Alt text](https://github.com/ChaoTzuJung/RC/blob/master/美術/UI/Mockup.png)<br />
 >
 
 
