@@ -11,10 +11,17 @@ import Mon from './components/Mon';
 import Tue from './components/Tue';
 import Setting from './components/Setting';
 import Open from './components/Open';
-import Ppt from './components/Ppt';
+import MyProjects from './components/MyProjects';
 import GoPpt2 from './components/GoPpt2';
 import GoPpt1 from './components/GoPpt1';
 
+
+ onSignOut = () => {
+    firebase.auth().signOut();
+    this.props.navigation.navigate('LoginScreen');
+  }
+
+  
 //開始製作tabbar元件
 export const TabRouter = TabNavigator(
   {
@@ -129,8 +136,8 @@ export const LoginStack = StackNavigator({
 
 //----------------------------------------------------------------------------------------------------StackNavigator_1__從「我的講義」到「下載ppt」
 export const PptStack = StackNavigator({
-  Ppt: {
-    screen: Ppt,
+  MyProjects: {
+    screen: MyProjects,
         navigationOptions: {
         header: ({ navigate }) => ({
         title: <Image source={require('./img/RC-icon@1x.png')} />,
@@ -314,6 +321,7 @@ export const DrawerRouter = DrawerNavigator(
         drawer: {
           label: '登出',
           icon: ({ tintColor }) => <Image source={require('./img/log-out.png')} />
+          //firebase.auth().signOut();
         },
       },
     },
