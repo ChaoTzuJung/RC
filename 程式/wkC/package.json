@@ -1,0 +1,23 @@
+{
+  "name": "wkC",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "expo": "16.0.0",
+    "firebase": "^3.9.0",
+    "react": "16.0.0-alpha.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-16.0.0.tar.gz",
+    "react-native-elements": "^0.11.2",
+    "react-native-google-signin": "^0.10.0",
+    "react-native-hr": "git://github.com/Riglerr/react-native-hr.git#7c17c3ec47e14782db4c56b8cb0c35abd1d4b761",
+    "react-native-linear-gradient": "^2.0.0",
+    "react-native-swipeout": "^2.1.1",
+    "react-navigation": "git+https://github.com/react-community/react-navigation.git#7edd9a7",
+    "react-redux": "^5.0.5",
+    "react-swipeable-views-native": "^0.12.2",
+    "redux": "^3.6.0"
+  }
+}

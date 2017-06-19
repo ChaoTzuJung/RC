@@ -1,0 +1,37 @@
+[
+   {
+      "avatar": "http://i.imgur.com/54PgRUe.png",
+      "title": "音樂賞析",
+      "subtitle": "紀美仰",
+      "class_time": "第1-2節課(120分鐘)",
+      "thumbnail_image": "http://i.imgur.com/XuPxvgY.png"    
+   },
+   {  
+      "avatar": "http://i.imgur.com/R8ECGR0.png",
+      "title": "跨平台APP設計",
+      "subtitle": "俞齊山",
+      "class_time": "第2-4節課(180分鐘)",
+      "thumbnail_image": "http://i.imgur.com/XuPxvgY.png"
+   },
+   {  
+      "avatar": "http://i.imgur.com/R8KGhyo.png",
+      "title": "程式設計(上)",
+      "subtitle": "王學武",
+      "class_time": "第2-4節課(180分鐘)",
+      "thumbnail_image": "http://i.imgur.com/XuPxvgY.png"
+   },
+   {  
+      "avatar": "http://i.imgur.com/PzBSpZZ.png",
+      "title": "使用者經驗設計",
+      "subtitle": "許一珍",
+      "class_time": "第7-8節課(120分鐘)",
+      "thumbnail_image": "http://i.imgur.com/XuPxvgY.png"
+   },
+   {  
+      "avatar": "http://i.imgur.com/2J9CGpR.png",
+      "title": "網站前端設計與開發",
+      "subtitle": "俞齊山",
+      "class_time": "第5-7節課(180分鐘)",
+      "thumbnail_image": "http://i.imgur.com/XuPxvgY.png"
+   }
+]
